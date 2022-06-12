@@ -24,3 +24,6 @@ ns-proof-page/fonts
 package-lock.json
 .private*
 config.private.json
+
+.direnv/
+sources/shs/*.otf
